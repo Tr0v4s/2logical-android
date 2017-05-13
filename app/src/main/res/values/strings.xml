@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Data Analyse</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <string-array name="filter_options">
+        <item>Period</item>
+        <item>Market</item>
+        <item>Metric</item>
+    </string-array>
+</resources>
